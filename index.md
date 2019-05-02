@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+本软件尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本软件会按照本隐私权政策的规定使用和披露您的个人信息。但本软件将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本软件不会将这些信息对外披露或向第三方提供。本软件会不时更新本隐私权政策。您在同意本软件服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本软件服务使用协议不可分割的一部分。
 
-You can use the [editor on GitHub](https://github.com/codeisjobs/private.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1.适用范围
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+a)在您使用本软件网络服务，本软件自动接收并记录的您的手机上的信息，包括但不限于您的使用的语言及您的网络请求记录等数据。
 
-### Markdown
+2.信息的使用
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+a)在获得您的数据之后，本软件会在本地保存，以便更好的使用服务。
 
-```markdown
-Syntax highlighted code block
+3.信息披露
 
-# Header 1
-## Header 2
-### Header 3
+a)我们不会向其它任何公司、组织和个人分享您的个人账户信息。
 
-- Bulleted
-- List
+b)根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codeisjobs/private.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+c)如您出现违反中国有关法律、法规或者相关规则的情况，需要向第三方披露。
